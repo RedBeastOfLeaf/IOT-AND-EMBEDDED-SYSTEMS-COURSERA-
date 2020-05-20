@@ -1,0 +1,34 @@
+
+1. A light sensor (photoresistor) is an analog sensor.
+
+Ans: True
+
+2. A microphone is a digital sensor.
+
+Ans: False
+
+3. A push button is an analog sensor.
+
+Ans: False
+
+4. A keyboard is a digital sensor.
+
+Ans: True
+
+5. Which of the following components are actuators? Select all that apply.
+
+Ans:a servo motor
+an LED
+a heating element
+
+6. The component of an embedded system that executes a program is:
+
+Ans: a microcontroller
+
+7. An analog-to-digital converter is common in embedded systems because
+
+Ans: many sensors are analog while the microcontroller is digital.
+
+8. Consider the anti-lock braking system in a car. What are the main sensors and actuators of this system from the perspective of the driver?
+
+Ans: brake pedal and brake calipers and pads
